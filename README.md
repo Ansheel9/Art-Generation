@@ -12,7 +12,7 @@ Deeplearning.AI | Coursera
 
 All of the code is in Tensorflow and Python 3. The model is trained to mix content image with style image using neural style transfer!
 
-![](BT.gif)
+![](https://github.com/Ansheel9/Art-Generation/blob/master/images/result.png)
 
 ---
 
